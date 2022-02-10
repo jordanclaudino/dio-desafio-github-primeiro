@@ -1,0 +1,1 @@
+Verificado funcionamento de ambos os processos, utilizando o Git Bash, CLI indicada pelas aulas para interação.
